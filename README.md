@@ -1,4 +1,4 @@
-# ReadMe Generator
+# ReadME Generator
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,7 +17,10 @@
   ```git clone ssh key or https```
 
   ## Usage
-  to create readmes
+   create readmes
+
+  ## License
+  MIT License
 
   ## Contribution Guidelines
   worked alone
@@ -25,6 +28,7 @@
   ## How to Test
   video
   
+
   ## Questions
   [github](https://github.com/erinlim2001)
   erinlim@utexas.edu  

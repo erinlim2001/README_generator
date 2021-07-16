@@ -66,12 +66,16 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
+  ## License
+  ${data.license}
+
   ## Contribution Guidelines
   ${data.contribution}
 
   ## How to Test
   ${data.test}
   
+
   ## Questions
   [github](https://github.com/${data.github})
   ${data.email}  
